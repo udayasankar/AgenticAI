@@ -5,4 +5,6 @@ https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/
 
 https://www.kaggle.com/whitepaper-agents
 
+https://www.kaggle.com/whitepaper-agent-companion
+
 
