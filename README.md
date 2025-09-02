@@ -9,3 +9,5 @@ https://www.kaggle.com/whitepaper-agent-companion
 
 multiagentcommunciation: https://github.com/agulli/distributed_agents_langchain_adk_talking_a2a
 
+https://cloud.google.com/blog/products/ai-machine-learning/mcp-toolbox-for-databases-now-supports-model-context-protocol
+
