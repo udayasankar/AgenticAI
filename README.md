@@ -11,3 +11,5 @@ multiagentcommunciation: https://github.com/agulli/distributed_agents_langchain_
 
 https://cloud.google.com/blog/products/ai-machine-learning/mcp-toolbox-for-databases-now-supports-model-context-protocol
 
+
+https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph
