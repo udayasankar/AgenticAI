@@ -7,4 +7,5 @@ https://www.kaggle.com/whitepaper-agents
 
 https://www.kaggle.com/whitepaper-agent-companion
 
+multiagentcommunciation: https://github.com/agulli/distributed_agents_langchain_adk_talking_a2a
 
