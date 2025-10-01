@@ -15,3 +15,6 @@ https://cloud.google.com/blog/products/ai-machine-learning/mcp-toolbox-for-datab
 
 
 https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph
+
+Genai agents: https://github.com/NirDiamant/GenAI_Agents
+
